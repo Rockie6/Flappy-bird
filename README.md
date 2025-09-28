@@ -25,16 +25,37 @@ A collection of Flappy Bird implementations featuring AI players that learn thro
 
 ## 🎮 How to Play
 
-### Prerequisites
+### Quick Setup (Recommended)
 ```bash
-pip install pygame numpy matplotlib scipy
+# Clone the repository
+git clone https://github.com/Rockie6/Flappy-bird.git
+cd Flappy-bird
+
+# Create virtual environment
+python3 -m venv flappy_env
+
+# Activate virtual environment
+source flappy_env/bin/activate  # Linux/macOS
+# OR
+flappy_env\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Play the game!
+python flappy_playable.py
 ```
 
-### Genetic Algorithm Training
+### Alternative Installation
 ```bash
-python flappy_ai.py
+# If you prefer system-wide installation (not recommended)
+sudo apt install python3-pygame python3-numpy python3-matplotlib python3-scipy  # Ubuntu/Debian
+# OR
+pip install --break-system-packages pygame numpy matplotlib scipy  # Override protection
+
+# Then run
+python3 flappy_playable.py
 ```
-Watch AI birds evolve and learn to play Flappy Bird over multiple generations.
 
 ### Human vs AI Competition
 ```bash
