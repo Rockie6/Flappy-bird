@@ -152,12 +152,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **GitHub**: [Your GitHub Profile]
-- **Project**: [Repository Link]
+- **GitHub**: [https://github.com/Rockie6/Flappy-bird.git]
+- **Project**: [https://github.com/Rockie6/Flappy-bird.git]
 
 ---
 
-*Made with ❤️ and lots of ☕ by the GenAI team*
+*Made with ❤️ and lots of ☕ by Rockie*
 
 ## 🎮 Screenshots
 
