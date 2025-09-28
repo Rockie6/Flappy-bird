@@ -95,15 +95,7 @@ Typical learning progression:
 - **Generation 5**: ~100-150 points average  
 - **Generation 10+**: ~200+ points average
 - **Best recorded**: 500+ points
-
-## 🔧 Technical Details
-
-### Game Physics
-- Gravity: 0.4 pixels/frame²
-- Flap velocity: -7.0 pixels/frame
-- Pipe speed: 2.5 pixels/frame
-- Collision detection: Circle-rectangle intersection
-
+- 
 ### Code Structure
 ```
 flappy_ai.py           # Main genetic algorithm implementation
@@ -152,23 +144,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **GitHub**: [https://github.com/Rockie6/Flappy-bird.git]
+- **GitHub**: [https://github.com/Rockie6]
 - **Project**: [https://github.com/Rockie6/Flappy-bird.git]
 
 ---
 
 *Made with ❤️ and lots of ☕ by Rockie*
-
-## 🎮 Screenshots
-
-### Genetic Algorithm Training
-![AI Training](screenshots/ai_training.png)
-*AI birds learning to play through evolution*
-
-### Human vs AI Competition  
-![Human vs AI](screenshots/human_vs_ai.png)
-*Competitive gameplay with real-time scoring*
-
-### Neural Network Visualization
-![Neural Network](screenshots/neural_network.png)
-*Simple neural network architecture*
