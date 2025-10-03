@@ -86,7 +86,7 @@ requirements.txt       # Python dependencies
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Contact
+## 📞 Contact:
 
 - **GitHub**: [https://github.com/Rockie6]
 - **Project**: [https://github.com/Rockie6/Flappy-bird.git]
